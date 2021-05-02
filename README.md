@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm passionate about learning the latest and greatest technologies. Currently open to new experiences that can help me grow and develop in the software world. If you think I can help you do not hesitate to contact me.
+
 <!--
 **manuelczs/manuelczs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
