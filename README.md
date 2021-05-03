@@ -9,7 +9,7 @@ I'm passionate about learning the latest and greatest technologies. Currently op
 
 ### Contact
 - 📫 e-mail: me __at__ manux __dot__ ar
-- [Linkedin](https://linkedin.com/in/manuelczs)
+- [Linkedin](https://www.linkedin.com/in/manuzs)
 
 <!--
 **manuelczs/manuelczs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
