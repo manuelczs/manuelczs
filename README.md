@@ -5,6 +5,10 @@ I'm passionate about learning the latest and greatest technologies. Currently op
 ### What I'm focusing on
 
 - 🔭 Currently improving my React.js and Node.js skills.
+- 🌱 Learning Python and Flask framework.
+
+### Contact
+- 📫 How to reach me: me __at__ manux.ar
 
 <!--
 **manuelczs/manuelczs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
