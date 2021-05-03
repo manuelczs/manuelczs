@@ -8,7 +8,8 @@ I'm passionate about learning the latest and greatest technologies. Currently op
 - 🌱 Learning Python and Flask framework.
 
 ### Contact
-- 📫 How to reach me: me __at__ manux __dot__ ar
+- 📫 e-mail: me __at__ manux __dot__ ar
+- [Linkedin](https://linkedin.com/in/manuelczs)
 
 <!--
 **manuelczs/manuelczs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
