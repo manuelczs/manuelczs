@@ -8,7 +8,7 @@ I'm passionate about learning the latest and greatest technologies. Currently op
 - 🌱 Learning Python and Flask framework.
 
 ### Contact
-- :email: me __at__ manux __dot__ ar
+- :email: me ___ignore_this___ __at__ manux __dot__ ar
 - :link: [Linkedin](https://www.linkedin.com/in/manuzs)
 
 <!--
