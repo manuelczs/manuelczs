@@ -1,4 +1,4 @@
-## Hi Human! 👋
+## Hi there! 👋
 
 I'm passionate about learning the latest and greatest technologies. My favourite stack is MERN. Currently open to new experiences that can help me grow and develop in the software world. If you think I can help you do not hesitate to contact me.
 
